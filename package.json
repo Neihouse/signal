@@ -44,7 +44,7 @@
     "@sentry/tracing": "^7.86.0",
     "@types/react": "^18.2.55",
     "color": "^4.2.3",
-    "firebase": "^10.7.1",
+    "firebase": "^10.9.0",
     "firebaseui": "^6.1.0",
     "gl-matrix": "^3.4.3",
     "lodash": "^4.17.21",
